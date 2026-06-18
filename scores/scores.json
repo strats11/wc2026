@@ -1,5 +1,5 @@
 {
-  "updated": "16 Jun 2026, 22:40 · Copy of Pub Ops World Cup Sweepstake 2026.xlsx",
+  "updated": "18 Jun 2026, 22:40",
   "scores": {
     "Mexico": {
       "w": 1,
@@ -17,24 +17,24 @@
     },
     "Czech Republic": {
       "w": 0,
-      "d": 0,
+      "d": 2,
       "l": 1,
       "gd": -1,
-      "played": 1
+      "played": 2
     },
     "South Africa": {
       "w": 0,
-      "d": 0,
+      "d": 2,
       "l": 1,
       "gd": -2,
-      "played": 1
+      "played": 2
     },
     "Switzerland": {
-      "w": 0,
+      "w": 1,
       "d": 1,
       "l": 0,
-      "gd": 0,
-      "played": 1
+      "gd": 3,
+      "played": 2
     },
     "Canada": {
       "w": 0,
@@ -53,9 +53,9 @@
     "Bosnia-Herz": {
       "w": 0,
       "d": 1,
-      "l": 0,
-      "gd": 0,
-      "played": 1
+      "l": 1,
+      "gd": -3,
+      "played": 2
     },
     "Scotland": {
       "w": 1,
