@@ -242,72 +242,72 @@
     "Iraq": {
       "w": 0,
       "d": 0,
-      "l": 0,
-      "gd": 0,
-      "played": 0
+      "l": 1,
+      "gd": -3,
+      "played": 1
     },
     "Norway": {
-      "w": 0,
+      "w": 1,
       "d": 0,
       "l": 0,
-      "gd": 0,
-      "played": 0
+      "gd": 3,
+      "played": 1
     },
     "Argentina": {
-      "w": 0,
+      "w": 1,
       "d": 0,
       "l": 0,
-      "gd": 0,
-      "played": 0
+      "gd": 3,
+      "played": 1
     },
     "Algeria": {
       "w": 0,
       "d": 0,
-      "l": 0,
-      "gd": 0,
-      "played": 0
+      "l": 1,
+      "gd": -3,
+      "played": 1
     },
     "Austria": {
-      "w": 0,
+      "w": 1,
       "d": 0,
       "l": 0,
-      "gd": 0,
-      "played": 0
+      "gd": 2,
+      "played": 1
     },
     "Jordan": {
       "w": 0,
       "d": 0,
-      "l": 0,
-      "gd": 0,
-      "played": 0
+      "l": 1,
+      "gd": -2,
+      "played": 1
     },
     "Portugal": {
       "w": 0,
-      "d": 0,
+      "d": 1,
       "l": 0,
       "gd": 0,
-      "played": 0
+      "played": 1
     },
     "Congo DR": {
       "w": 0,
-      "d": 0,
+      "d": 1,
       "l": 0,
       "gd": 0,
-      "played": 0
+      "played": 1
     },
     "Uzbekistan": {
       "w": 0,
       "d": 0,
-      "l": 0,
-      "gd": 0,
-      "played": 0
+      "l": 1,
+      "gd": -2,
+      "played": 1
     },
     "Colombia": {
-      "w": 0,
+      "w": 1,
       "d": 0,
       "l": 0,
-      "gd": 0,
-      "played": 0
+      "gd": 2,
+      "played": 1
     },
     "England": {
       "w": 1,
@@ -324,18 +324,18 @@
       "played": 1
     },
     "Ghana": {
-      "w": 0,
-      "d": 0,
-      "l": 0,
-      "gd": 0,
-      "played": 1
-    },
-    "Panama": {
       "w": 1,
       "d": 0,
       "l": 0,
       "gd": 1,
-      "played": 0
+      "played": 1
+    },
+    "Panama": {
+      "w": 0,
+      "d": 0,
+      "l": 1,
+      "gd": -1,
+      "played": 1
     }
   }
 }
