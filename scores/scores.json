@@ -310,31 +310,31 @@
       "played": 0
     },
     "England": {
-      "w": 0,
+      "w": 1,
       "d": 0,
       "l": 0,
-      "gd": 0,
-      "played": 0
+      "gd": 2,
+      "played": 1
     },
     "Croatia": {
       "w": 0,
       "d": 0,
-      "l": 0,
-      "gd": 0,
-      "played": 0
+      "l": 1,
+      "gd": -2,
+      "played": 1
     },
     "Ghana": {
       "w": 0,
       "d": 0,
       "l": 0,
       "gd": 0,
-      "played": 0
+      "played": 1
     },
     "Panama": {
-      "w": 0,
+      "w": 1,
       "d": 0,
       "l": 0,
-      "gd": 0,
+      "gd": 1,
       "played": 0
     }
   }
