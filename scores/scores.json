@@ -144,8 +144,8 @@
     "Sweden": {
       "w": 1,
       "d": 0,
-      "l": 0,
-      "gd": 4,
+      "l": 1,
+      "gd": 1,
       "played": 2
     },
     "Japan": {
@@ -156,10 +156,10 @@
       "played": 1
     },
     "Netherlands": {
-      "w": 0,
+      "w": 1,
       "d": 1,
       "l": 0,
-      "gd": 0,
+      "gd": 3,
       "played": 2
     },
     "Tunisia": {
