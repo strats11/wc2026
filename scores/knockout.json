@@ -1,0 +1,289 @@
+{
+  "updated": "28 Jun 2026, 20:00 · Knockout stage begins",
+  "scores": {
+    "Mexico":        { "played": 3, "w": 2, "d": 0, "l": 1, "gd": 3,  "points": 6 },
+    "South Korea":   { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 0,  "points": 4 },
+    "Czech Republic":{ "played": 3, "w": 1, "d": 0, "l": 2, "gd": -2, "points": 3 },
+    "South Africa":  { "played": 3, "w": 0, "d": 1, "l": 2, "gd": -3, "points": 1 },
+    "Switzerland":   { "played": 3, "w": 2, "d": 1, "l": 0, "gd": 4,  "points": 7 },
+    "Canada":        { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 1,  "points": 4 },
+    "Qatar":         { "played": 3, "w": 0, "d": 1, "l": 2, "gd": -4, "points": 1 },
+    "Bosnia-Herz":   { "played": 3, "w": 1, "d": 0, "l": 2, "gd": -2, "points": 3 },
+    "Scotland":      { "played": 3, "w": 2, "d": 1, "l": 0, "gd": 3,  "points": 7 },
+    "Morocco":       { "played": 3, "w": 2, "d": 0, "l": 1, "gd": 2,  "points": 6 },
+    "Brazil":        { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 1,  "points": 4 },
+    "Haiti":         { "played": 3, "w": 0, "d": 0, "l": 3, "gd": -5, "points": 0 },
+    "United States": { "played": 3, "w": 3, "d": 0, "l": 0, "gd": 6,  "points": 9 },
+    "Australia":     { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 0,  "points": 4 },
+    "Turkiye":       { "played": 3, "w": 1, "d": 0, "l": 2, "gd": -2, "points": 3 },
+    "Paraguay":      { "played": 3, "w": 0, "d": 0, "l": 3, "gd": -6, "points": 0 },
+    "Germany":       { "played": 3, "w": 3, "d": 0, "l": 0, "gd": 8,  "points": 9 },
+    "Ecuador":       { "played": 3, "w": 1, "d": 0, "l": 2, "gd": -2, "points": 3 },
+    "Ivory Coast":   { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 0,  "points": 4 },
+    "Curacao":       { "played": 3, "w": 0, "d": 0, "l": 3, "gd": -8, "points": 0 },
+    "Japan":         { "played": 3, "w": 2, "d": 0, "l": 1, "gd": 2,  "points": 6 },
+    "Netherlands":   { "played": 3, "w": 2, "d": 1, "l": 0, "gd": 5,  "points": 7 },
+    "Sweden":        { "played": 3, "w": 2, "d": 0, "l": 1, "gd": 3,  "points": 6 },
+    "Tunisia":       { "played": 3, "w": 0, "d": 0, "l": 3, "gd": -5, "points": 0 },
+    "Belgium":       { "played": 3, "w": 2, "d": 1, "l": 0, "gd": 4,  "points": 7 },
+    "Egypt":         { "played": 3, "w": 1, "d": 0, "l": 2, "gd": -1, "points": 3 },
+    "Iran":          { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 0,  "points": 4 },
+    "New Zealand":   { "played": 3, "w": 0, "d": 0, "l": 3, "gd": -4, "points": 0 },
+    "Spain":         { "played": 3, "w": 2, "d": 1, "l": 0, "gd": 5,  "points": 7 },
+    "Cape Verde":    { "played": 3, "w": 1, "d": 0, "l": 2, "gd": -2, "points": 3 },
+    "Saudi Arabia":  { "played": 3, "w": 0, "d": 1, "l": 2, "gd": -3, "points": 1 },
+    "Uruguay":       { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 1,  "points": 4 },
+    "France":        { "played": 3, "w": 3, "d": 0, "l": 0, "gd": 7,  "points": 9 },
+    "Senegal":       { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 0,  "points": 4 },
+    "Iraq":          { "played": 3, "w": 0, "d": 1, "l": 2, "gd": -4, "points": 1 },
+    "Norway":        { "played": 3, "w": 2, "d": 0, "l": 1, "gd": 2,  "points": 6 },
+    "Argentina":     { "played": 3, "w": 3, "d": 0, "l": 0, "gd": 6,  "points": 9 },
+    "Algeria":       { "played": 3, "w": 1, "d": 0, "l": 2, "gd": -2, "points": 3 },
+    "Austria":       { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 1,  "points": 4 },
+    "Jordan":        { "played": 3, "w": 0, "d": 0, "l": 3, "gd": -5, "points": 0 },
+    "Portugal":      { "played": 3, "w": 2, "d": 1, "l": 0, "gd": 4,  "points": 7 },
+    "Congo DR":      { "played": 3, "w": 1, "d": 0, "l": 2, "gd": -2, "points": 3 },
+    "Uzbekistan":    { "played": 3, "w": 0, "d": 1, "l": 2, "gd": -3, "points": 1 },
+    "Colombia":      { "played": 3, "w": 2, "d": 0, "l": 1, "gd": 2,  "points": 6 },
+    "England":       { "played": 3, "w": 2, "d": 1, "l": 0, "gd": 4,  "points": 7 },
+    "Croatia":       { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 0,  "points": 4 },
+    "Ghana":         { "played": 3, "w": 1, "d": 0, "l": 2, "gd": -2, "points": 3 },
+    "Panama":        { "played": 3, "w": 0, "d": 0, "l": 3, "gd": -5, "points": 0 }
+  },
+  "knockout": {
+    "stage": "R32",
+
+    "activeTeams": [
+      "Mexico", "Switzerland", "Scotland", "United States",
+      "Germany", "Netherlands", "Belgium", "Spain",
+      "France", "Argentina", "Portugal", "England",
+      "Morocco", "Sweden", "Japan", "Norway",
+      "Brazil", "Canada", "Australia", "Ivory Coast",
+      "Uruguay", "Colombia", "Croatia", "Austria",
+      "South Korea", "South Africa", "Senegal", "Iran",
+      "Egypt", "Cape Verde", "Ecuador", "Algeria"
+    ],
+
+    "rounds": [
+
+      {
+        "label": "Round of 32",
+        "matches": [
+          {
+            "home": "Mexico",       "homeScore": 2,
+            "away": "Morocco",      "awayScore": 1,
+            "date": "Sun 28 Jun",   "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "Switzerland",  "homeScore": 1,
+            "away": "South Korea",  "awayScore": 0,
+            "date": "Sun 28 Jun",   "time": "21:00",
+            "live": false
+          },
+          {
+            "home": "Scotland",     "homeScore": 2,
+            "away": "Jordan",       "awayScore": 1,
+            "date": "Mon 29 Jun",   "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "United States","homeScore": 3,
+            "away": "South Africa", "awayScore": 0,
+            "date": "Mon 29 Jun",   "time": "21:00",
+            "live": false
+          },
+          {
+            "home": "Germany",      "homeScore": 3,
+            "away": "Uruguay",      "awayScore": 0,
+            "date": "Tue 30 Jun",   "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "Netherlands",  "homeScore": 2,
+            "away": "Ecuador",      "awayScore": 0,
+            "date": "Tue 30 Jun",   "time": "21:00",
+            "live": false
+          },
+          {
+            "home": "Belgium",      "homeScore": 1,
+            "away": "Iran",         "awayScore": 0,
+            "date": "Wed 1 Jul",    "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "Spain",        "homeScore": 2,
+            "away": "Cape Verde",   "awayScore": 0,
+            "date": "Wed 1 Jul",    "time": "21:00",
+            "live": false
+          },
+          {
+            "home": "France",       "homeScore": 3,
+            "away": "Algeria",      "awayScore": 1,
+            "date": "Thu 2 Jul",    "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "Norway",       "homeScore": 1,
+            "away": "Egypt",        "awayScore": 0,
+            "date": "Thu 2 Jul",    "time": "21:00",
+            "live": false
+          },
+          {
+            "home": "Argentina",    "homeScore": 2,
+            "away": "Croatia",      "awayScore": 1,
+            "date": "Fri 3 Jul",    "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "Portugal",     "homeScore": 2,
+            "away": "Senegal",      "awayScore": 0,
+            "date": "Fri 3 Jul",    "time": "21:00",
+            "live": false
+          },
+          {
+            "home": "England",      "homeScore": null,
+            "away": "Colombia",     "awayScore": null,
+            "date": "Sat 4 Jul",    "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "Sweden",       "homeScore": null,
+            "away": "Austria",      "awayScore": null,
+            "date": "Sat 4 Jul",    "time": "21:00",
+            "live": false
+          },
+          {
+            "home": "Japan",        "homeScore": null,
+            "away": "Australia",    "awayScore": null,
+            "date": "Sun 5 Jul",    "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "Brazil",       "homeScore": null,
+            "away": "Canada",       "awayScore": null,
+            "date": "Sun 5 Jul",    "time": "21:00",
+            "live": false
+          }
+        ]
+      },
+
+      {
+        "label": "Round of 16",
+        "matches": [
+          {
+            "home": "Mexico",       "homeScore": null,
+            "away": "Switzerland",  "awayScore": null,
+            "date": "Tue 7 Jul",    "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "Scotland",     "homeScore": null,
+            "away": "United States","awayScore": null,
+            "date": "Tue 7 Jul",    "time": "21:00",
+            "live": false
+          },
+          {
+            "home": "Germany",      "homeScore": null,
+            "away": "Netherlands",  "awayScore": null,
+            "date": "Wed 8 Jul",    "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "Belgium",      "homeScore": null,
+            "away": "Spain",        "awayScore": null,
+            "date": "Wed 8 Jul",    "time": "21:00",
+            "live": false
+          },
+          {
+            "home": "France",       "homeScore": null,
+            "away": "Norway",       "awayScore": null,
+            "date": "Thu 9 Jul",    "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "Argentina",    "homeScore": null,
+            "away": "Portugal",     "awayScore": null,
+            "date": "Thu 9 Jul",    "time": "21:00",
+            "live": false
+          },
+          {
+            "home": "TBD",          "homeScore": null,
+            "away": "TBD",          "awayScore": null,
+            "date": "Fri 10 Jul",   "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "TBD",          "homeScore": null,
+            "away": "TBD",          "awayScore": null,
+            "date": "Fri 10 Jul",   "time": "21:00",
+            "live": false
+          }
+        ]
+      },
+
+      {
+        "label": "Quarter-finals",
+        "matches": [
+          {
+            "home": "TBD",          "homeScore": null,
+            "away": "TBD",          "awayScore": null,
+            "date": "Mon 13 Jul",   "time": "20:00",
+            "live": false
+          },
+          {
+            "home": "TBD",          "homeScore": null,
+            "away": "TBD",          "awayScore": null,
+            "date": "Tue 14 Jul",   "time": "20:00",
+            "live": false
+          },
+          {
+            "home": "TBD",          "homeScore": null,
+            "away": "TBD",          "awayScore": null,
+            "date": "Wed 15 Jul",   "time": "20:00",
+            "live": false
+          },
+          {
+            "home": "TBD",          "homeScore": null,
+            "away": "TBD",          "awayScore": null,
+            "date": "Thu 16 Jul",   "time": "20:00",
+            "live": false
+          }
+        ]
+      },
+
+      {
+        "label": "Semi-finals",
+        "matches": [
+          {
+            "home": "TBD",          "homeScore": null,
+            "away": "TBD",          "awayScore": null,
+            "date": "Mon 20 Jul",   "time": "20:00",
+            "live": false
+          },
+          {
+            "home": "TBD",          "homeScore": null,
+            "away": "TBD",          "awayScore": null,
+            "date": "Tue 21 Jul",   "time": "20:00",
+            "live": false
+          }
+        ]
+      },
+
+      {
+        "label": "Final",
+        "matches": [
+          {
+            "home": "TBD",          "homeScore": null,
+            "away": "TBD",          "awayScore": null,
+            "date": "Sun 27 Jul",   "time": "20:00",
+            "live": false
+          }
+        ]
+      }
+
+    ],
+
+    "winner": null
+  }
+}
