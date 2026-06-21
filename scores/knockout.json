@@ -100,69 +100,69 @@
             "live": false
           },
           {
-            "home": "USA",  "homeScore": null,
+            "home": "United States",  "homeScore": null,
             "away": "TBD",      "awayScore": null,
             "date": "Thu 2 Jun",   "time": "01:00",
             "live": false
           },
           {
-            "home": "TBD",      "homeScore": 1,
-            "away": "TBD",         "awayScore": 0,
-            "date": "Wed 1 Jul",    "time": "18:00",
+            "home": "TBD",      "homeScore": null,
+            "away": "TBD",         "awayScore": null,
+            "date": "Thu 2 Jul",    "time": "20:00",
             "live": false
           },
           {
             "home": "TBD",        "homeScore": 2,
             "away": "TBD",   "awayScore": 0,
-            "date": "Wed 1 Jul",    "time": "21:00",
-            "live": false
-          },
-          {
-            "home": "TBD",       "homeScore": 3,
-            "away": "TBD",      "awayScore": 1,
-            "date": "Thu 2 Jul",    "time": "18:00",
-            "live": false
-          },
-          {
-            "home": "TBD",       "homeScore": 1,
-            "away": "TBD",        "awayScore": 0,
-            "date": "Thu 2 Jul",    "time": "21:00",
-            "live": false
-          },
-          {
-            "home": "TBD",    "homeScore": 2,
-            "away": "TBD",      "awayScore": 1,
-            "date": "Fri 3 Jul",    "time": "18:00",
-            "live": false
-          },
-          {
-            "home": "TBD",     "homeScore": 2,
-            "away": "TBD",      "awayScore": 0,
-            "date": "Fri 3 Jul",    "time": "21:00",
-            "live": false
-          },
-          {
-            "home": "TBD",      "homeScore": null,
-            "away": "TBD",     "awayScore": null,
-            "date": "Sat 4 Jul",    "time": "18:00",
+            "date": "Fri 3 Jul",    "time": "00:00",
             "live": false
           },
           {
             "home": "TBD",       "homeScore": null,
             "away": "TBD",      "awayScore": null,
-            "date": "Sat 4 Jul",    "time": "21:00",
+            "date": "Mon 29 Jun",    "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "TBD",       "homeScore": 1,
+            "away": "TBD",        "awayScore": 0,
+            "date": "Tue 30 Jul",    "time": "18:00",
+            "live": false
+          },
+          {
+            "home": "Mexico",    "homeScore": 2,
+            "away": "TBD",      "awayScore": 1,
+            "date": "Wed 1 Jul",    "time": "02:00",
+            "live": false
+          },
+          {
+            "home": "TBD",     "homeScore": 2,
+            "away": "TBD",      "awayScore": 0,
+            "date": "Wed 1 Jul",    "time": "17:00",
+            "live": false
+          },
+          {
+            "home": "TBD",      "homeScore": null,
+            "away": "TBD",     "awayScore": null,
+            "date": "Fri 3 Jul",    "time": "04:00",
+            "live": false
+          },
+          {
+            "home": "TBD",       "homeScore": null,
+            "away": "TBD",      "awayScore": null,
+            "date": "Sat 4 Jul",    "time": "02:30",
             "live": false
           },
           {
             "home": "TBD",        "homeScore": null,
             "away": "TBD",    "awayScore": null,
-            "date": "Sun 5 Jul",    "time": "18:00",
+            "date": "Fri 3 Jul",    "time": "19:00",
             "live": false
           },
           {
             "home": "TBD",       "homeScore": null,
             "away": "TBD",       "awayScore": null,
-            "date": "Sun 5 Jul",    "time": "21:00",
+            "date": "Fri 3 Jul",    "time": "23:00",
             "live": false
           }
         ]
@@ -174,49 +174,49 @@
           {
             "home": "TBD",       "homeScore": null,
             "away": "TBD",  "awayScore": null,
-            "date": "Tue 7 Jul",    "time": "18:00",
+            "date": "Sat 4 Jul",    "time": "18:00",
             "live": false
           },
           {
             "home": "TBD",     "homeScore": null,
             "away": "TBDs","awayScore": null,
-            "date": "Tue 7 Jul",    "time": "21:00",
+            "date": "Sat 4 Jul",    "time": "22:00",
             "live": false
           },
           {
             "home": "TBD",      "homeScore": null,
             "away": "TBD",  "awayScore": null,
-            "date": "Wed 8 Jul",    "time": "18:00",
+            "date": "Tue 7 Jul",    "time": "01:00",
             "live": false
           },
           {
             "home": "TBD",      "homeScore": null,
             "away": "TBD",        "awayScore": null,
-            "date": "Wed 8 Jul",    "time": "21:00",
+            "date": "Mon 6 Jul",    "time": "20:00",
             "live": false
           },
           {
             "home": "TBD",       "homeScore": null,
             "away": "TBD",       "awayScore": null,
-            "date": "Thu 9 Jul",    "time": "18:00",
+            "date": "Sun 5 Jul",    "time": "21:00",
             "live": false
           },
           {
             "home": "TBD",    "homeScore": null,
             "away": "TBD",     "awayScore": null,
-            "date": "Thu 9 Jul",    "time": "21:00",
+            "date": "Mon 6 Jul",    "time": "01:00",
             "live": false
           },
           {
             "home": "TBD",          "homeScore": null,
             "away": "TBD",          "awayScore": null,
-            "date": "Fri 10 Jul",   "time": "18:00",
+            "date": "Tue 7 Jul",   "time": "21:00",
             "live": false
           },
           {
             "home": "TBD",          "homeScore": null,
             "away": "TBD",          "awayScore": null,
-            "date": "Fri 10 Jul",   "time": "21:00",
+            "date": "Tue 7 Jul",   "time": "17:00",
             "live": false
           }
         ]
