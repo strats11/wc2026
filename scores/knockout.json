@@ -70,98 +70,98 @@
         "label": "Round of 32",
         "matches": [
           {
-            "home": "Mexico",       "homeScore": 2,
-            "away": "Morocco",      "awayScore": 1,
+            "home": "TBD",       "homeScore": null,
+            "away": "TBD",      "awayScore": null,
             "date": "Sun 28 Jun",   "time": "18:00",
             "live": false
           },
           {
-            "home": "Switzerland",  "homeScore": 1,
-            "away": "South Korea",  "awayScore": 0,
-            "date": "Sun 28 Jun",   "time": "21:00",
+            "home": "TBD",  "homeScore": null,
+            "away": "TBD",  "awayScore": null,
+            "date": "Tue 30 Jun",   "time": "02:00",
             "live": false
           },
           {
-            "home": "Scotland",     "homeScore": 2,
-            "away": "Jordan",       "awayScore": 1,
-            "date": "Mon 29 Jun",   "time": "18:00",
+            "home": "Germany",     "homeScore": null,
+            "away": "TBD",       "awayScore": null,
+            "date": "Mon 29 Jun",   "time": "21:30",
             "live": false
           },
           {
-            "home": "United States","homeScore": 3,
-            "away": "South Africa", "awayScore": 0,
-            "date": "Mon 29 Jun",   "time": "21:00",
+            "home": "TBD","homeScore": null,
+            "away": "TBD", "awayScore": null,
+            "date": "Tue 30 Jun",   "time": "22:00",
             "live": false
           },
           {
-            "home": "Germany",      "homeScore": 3,
-            "away": "Uruguay",      "awayScore": 0,
-            "date": "Tue 30 Jun",   "time": "18:00",
+            "home": "TBD",      "homeScore": null,
+            "away": "TBD",      "awayScore": null,
+            "date": "Wed 1 Jul",   "time": "21:00",
             "live": false
           },
           {
-            "home": "Netherlands",  "homeScore": 2,
-            "away": "Ecuador",      "awayScore": 0,
-            "date": "Tue 30 Jun",   "time": "21:00",
+            "home": "USA",  "homeScore": null,
+            "away": "TBD",      "awayScore": null,
+            "date": "Thu 2 Jun",   "time": "01:00",
             "live": false
           },
           {
-            "home": "Belgium",      "homeScore": 1,
-            "away": "Iran",         "awayScore": 0,
+            "home": "TBD",      "homeScore": 1,
+            "away": "TBD",         "awayScore": 0,
             "date": "Wed 1 Jul",    "time": "18:00",
             "live": false
           },
           {
-            "home": "Spain",        "homeScore": 2,
-            "away": "Cape Verde",   "awayScore": 0,
+            "home": "TBD",        "homeScore": 2,
+            "away": "TBD",   "awayScore": 0,
             "date": "Wed 1 Jul",    "time": "21:00",
             "live": false
           },
           {
-            "home": "France",       "homeScore": 3,
-            "away": "Algeria",      "awayScore": 1,
+            "home": "TBD",       "homeScore": 3,
+            "away": "TBD",      "awayScore": 1,
             "date": "Thu 2 Jul",    "time": "18:00",
             "live": false
           },
           {
-            "home": "Norway",       "homeScore": 1,
-            "away": "Egypt",        "awayScore": 0,
+            "home": "TBD",       "homeScore": 1,
+            "away": "TBD",        "awayScore": 0,
             "date": "Thu 2 Jul",    "time": "21:00",
             "live": false
           },
           {
-            "home": "Argentina",    "homeScore": 2,
-            "away": "Croatia",      "awayScore": 1,
+            "home": "TBD",    "homeScore": 2,
+            "away": "TBD",      "awayScore": 1,
             "date": "Fri 3 Jul",    "time": "18:00",
             "live": false
           },
           {
-            "home": "Portugal",     "homeScore": 2,
-            "away": "Senegal",      "awayScore": 0,
+            "home": "TBD",     "homeScore": 2,
+            "away": "TBD",      "awayScore": 0,
             "date": "Fri 3 Jul",    "time": "21:00",
             "live": false
           },
           {
-            "home": "England",      "homeScore": null,
-            "away": "Colombia",     "awayScore": null,
+            "home": "TBD",      "homeScore": null,
+            "away": "TBD",     "awayScore": null,
             "date": "Sat 4 Jul",    "time": "18:00",
             "live": false
           },
           {
-            "home": "Sweden",       "homeScore": null,
-            "away": "Austria",      "awayScore": null,
+            "home": "TBD",       "homeScore": null,
+            "away": "TBD",      "awayScore": null,
             "date": "Sat 4 Jul",    "time": "21:00",
             "live": false
           },
           {
-            "home": "Japan",        "homeScore": null,
-            "away": "Australia",    "awayScore": null,
+            "home": "TBD",        "homeScore": null,
+            "away": "TBD",    "awayScore": null,
             "date": "Sun 5 Jul",    "time": "18:00",
             "live": false
           },
           {
-            "home": "Brazil",       "homeScore": null,
-            "away": "Canada",       "awayScore": null,
+            "home": "TBD",       "homeScore": null,
+            "away": "TBD",       "awayScore": null,
             "date": "Sun 5 Jul",    "time": "21:00",
             "live": false
           }
@@ -172,38 +172,38 @@
         "label": "Round of 16",
         "matches": [
           {
-            "home": "Mexico",       "homeScore": null,
-            "away": "Switzerland",  "awayScore": null,
+            "home": "TBD",       "homeScore": null,
+            "away": "TBD",  "awayScore": null,
             "date": "Tue 7 Jul",    "time": "18:00",
             "live": false
           },
           {
-            "home": "Scotland",     "homeScore": null,
-            "away": "United States","awayScore": null,
+            "home": "TBD",     "homeScore": null,
+            "away": "TBDs","awayScore": null,
             "date": "Tue 7 Jul",    "time": "21:00",
             "live": false
           },
           {
-            "home": "Germany",      "homeScore": null,
-            "away": "Netherlands",  "awayScore": null,
+            "home": "TBD",      "homeScore": null,
+            "away": "TBD",  "awayScore": null,
             "date": "Wed 8 Jul",    "time": "18:00",
             "live": false
           },
           {
-            "home": "Belgium",      "homeScore": null,
-            "away": "Spain",        "awayScore": null,
+            "home": "TBD",      "homeScore": null,
+            "away": "TBD",        "awayScore": null,
             "date": "Wed 8 Jul",    "time": "21:00",
             "live": false
           },
           {
-            "home": "France",       "homeScore": null,
-            "away": "Norway",       "awayScore": null,
+            "home": "TBD",       "homeScore": null,
+            "away": "TBD",       "awayScore": null,
             "date": "Thu 9 Jul",    "time": "18:00",
             "live": false
           },
           {
-            "home": "Argentina",    "homeScore": null,
-            "away": "Portugal",     "awayScore": null,
+            "home": "TBD",    "homeScore": null,
+            "away": "TBD",     "awayScore": null,
             "date": "Thu 9 Jul",    "time": "21:00",
             "live": false
           },
@@ -228,25 +228,25 @@
           {
             "home": "TBD",          "homeScore": null,
             "away": "TBD",          "awayScore": null,
-            "date": "Mon 13 Jul",   "time": "20:00",
+            "date": "Thu 9 Jul",   "time": "21:00",
             "live": false
           },
           {
             "home": "TBD",          "homeScore": null,
             "away": "TBD",          "awayScore": null,
-            "date": "Tue 14 Jul",   "time": "20:00",
+            "date": "Fri 10 Jul",   "time": "20:00",
             "live": false
           },
           {
             "home": "TBD",          "homeScore": null,
             "away": "TBD",          "awayScore": null,
-            "date": "Wed 15 Jul",   "time": "20:00",
+            "date": "Sat 11 Jul",   "time": "22:00",
             "live": false
           },
           {
             "home": "TBD",          "homeScore": null,
             "away": "TBD",          "awayScore": null,
-            "date": "Thu 16 Jul",   "time": "20:00",
+            "date": "Fri 12 Jul",   "time": "02:00",
             "live": false
           }
         ]
@@ -258,13 +258,13 @@
           {
             "home": "TBD",          "homeScore": null,
             "away": "TBD",          "awayScore": null,
-            "date": "Mon 20 Jul",   "time": "20:00",
+            "date": "Sun 14 Jul",   "time": "20:00",
             "live": false
           },
           {
             "home": "TBD",          "homeScore": null,
             "away": "TBD",          "awayScore": null,
-            "date": "Tue 21 Jul",   "time": "20:00",
+            "date": "Mon 15 Jul",   "time": "20:00",
             "live": false
           }
         ]
@@ -276,7 +276,7 @@
           {
             "home": "TBD",          "homeScore": null,
             "away": "TBD",          "awayScore": null,
-            "date": "Sun 27 Jul",   "time": "20:00",
+            "date": "Sun 19 Jul",   "time": "20:00",
             "live": false
           }
         ]
