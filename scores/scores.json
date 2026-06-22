@@ -171,45 +171,45 @@
     },
     "Belgium": {
       "w": 0,
-      "d": 1,
+      "d": 2,
       "l": 0,
       "gd": 0,
-      "played": 1
+      "played": 2
     },
     "Egypt": {
-      "w": 0,
+      "w": 1,
       "d": 1,
       "l": 0,
-      "gd": 0,
-      "played": 1
+      "gd": 2,
+      "played": 2
     },
     "Iran": {
       "w": 0,
-      "d": 1,
+      "d": 2,
       "l": 0,
       "gd": 0,
-      "played": 1
+      "played": 2
     },
     "New Zealand": {
       "w": 0,
       "d": 1,
-      "l": 0,
-      "gd": 0,
-      "played": 1
+      "l": 1,
+      "gd": -2,
+      "played": 2
     },
     "Spain": {
-      "w": 0,
+      "w": 1,
       "d": 1,
       "l": 0,
-      "gd": 0,
-      "played": 1
+      "gd": 4,
+      "played": 2
     },
     "Cape Verde": {
       "w": 0,
-      "d": 1,
+      "d": 2,
       "l": 0,
       "gd": 0,
-      "played": 1
+      "played": 2
     },
     "Saudi Arabia": {
       "w": 0,
