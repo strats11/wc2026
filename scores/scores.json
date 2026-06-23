@@ -1,5 +1,5 @@
 {
-  "updated": "22 Jun 2026, 03:10",
+  "updated": "23 Jun 2026, 07:10",
   "scores": {
     "Mexico": {
       "w": 2,
@@ -220,59 +220,59 @@
     },
     "Uruguay": {
       "w": 0,
-      "d": 1,
+      "d": 2,
       "l": 0,
       "gd": 0,
-      "played": 1
+      "played": 2
     },
     "France": {
-      "w": 1,
+      "w": 2,
       "d": 0,
       "l": 0,
-      "gd": 2,
-      "played": 1
+      "gd": 5,
+      "played": 2
     },
     "Senegal": {
       "w": 0,
       "d": 0,
-      "l": 1,
-      "gd": -2,
-      "played": 1
+      "l": 2,
+      "gd": -3,
+      "played": 2
     },
     "Iraq": {
       "w": 0,
       "d": 0,
-      "l": 1,
-      "gd": -3,
-      "played": 1
+      "l": 2,
+      "gd": -6,
+      "played": 2
     },
     "Norway": {
-      "w": 1,
+      "w": 2,
       "d": 0,
       "l": 0,
-      "gd": 3,
-      "played": 1
+      "gd": 4,
+      "played": 2
     },
     "Argentina": {
-      "w": 1,
+      "w": 2,
       "d": 0,
       "l": 0,
-      "gd": 3,
-      "played": 1
+      "gd": 5,
+      "played": 2
     },
     "Algeria": {
-      "w": 0,
+      "w": 1,
       "d": 0,
       "l": 1,
-      "gd": -3,
-      "played": 1
+      "gd": -2,
+      "played": 2
     },
     "Austria": {
       "w": 1,
       "d": 0,
-      "l": 0,
-      "gd": 2,
-      "played": 1
+      "l": 1,
+      "gd": 0,
+      "played": 2
     },
     "Jordan": {
       "w": 0,
