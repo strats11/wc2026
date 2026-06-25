@@ -70,13 +70,13 @@
         "label": "Round of 32",
         "matches": [
           {
-            "home": "TBD",       "homeScore": null,
-            "away": "TBD",      "awayScore": null,
-            "date": "Sun 28 Jun",   "time": "18:00",
+            "home": "South Africa",       "homeScore": null,
+            "away": "Canada",      "awayScore": null,
+            "date": "Sun 28 Jun",   "time": "20:00",
             "live": false
           },
           {
-            "home": "TBD",  "homeScore": null,
+            "home": "Morocco",  "homeScore": null,
             "away": "TBD",  "awayScore": null,
             "date": "Tue 30 Jun",   "time": "02:00",
             "live": false
@@ -94,15 +94,15 @@
             "live": false
           },
           {
-            "home": "TBD",      "homeScore": null,
+            "home": "Mexico",      "homeScore": null,
             "away": "TBD",      "awayScore": null,
-            "date": "Wed 1 Jul",   "time": "21:00",
+            "date": "Wed 1 Jul",   "time": "02:00",
             "live": false
           },
           {
             "home": "United States",  "homeScore": null,
             "away": "TBD",      "awayScore": null,
-            "date": "Thu 2 Jun",   "time": "01:00",
+            "date": "Thu 2 Jul",   "time": "01:00",
             "live": false
           },
           {
