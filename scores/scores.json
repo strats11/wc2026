@@ -1,12 +1,12 @@
 {
-  "updated": "24 Jun 2026, 07:10",
+  "updated": "25 Jun 2026, 18:10",
   "scores": {
     "Mexico": {
-      "w": 2,
+      "w": 3,
       "d": 0,
       "l": 0,
-      "gd": 3,
-      "played": 2
+      "gd": 6,
+      "played": 3
     },
     "South Korea": {
       "w": 1,
@@ -18,72 +18,72 @@
     "Czech Republic": {
       "w": 0,
       "d": 1,
-      "l": 1,
-      "gd": -1,
-      "played": 2
+      "l": 2,
+      "gd": -4,
+      "played": 3
     },
     "South Africa": {
-      "w": 0,
-      "d": 1,
-      "l": 1,
-      "gd": -2,
-      "played": 2
-    },
-    "Switzerland": {
       "w": 1,
       "d": 1,
+      "l": 1,
+      "gd": -1,
+      "played": 3
+    },
+    "Switzerland": {
+      "w": 2,
+      "d": 1,
       "l": 0,
-      "gd": 3,
-      "played": 2
+      "gd": 4,
+      "played": 3
     },
     "Canada": {
       "w": 1,
       "d": 1,
-      "l": 0,
-      "gd": 6,
-      "played": 2
+      "l": 1,
+      "gd": 5,
+      "played": 3
     },
     "Qatar": {
       "w": 0,
       "d": 1,
-      "l": 1,
-      "gd": -6,
-      "played": 2
+      "l": 2,
+      "gd": -8,
+      "played": 3
     },
     "Bosnia-Herz": {
-      "w": 0,
+      "w": 1,
       "d": 1,
       "l": 1,
-      "gd": -3,
-      "played": 2
+      "gd": -1,
+      "played": 3
     },
     "Scotland": {
       "w": 1,
       "d": 0,
-      "l": 1,
-      "gd": 0,
-      "played": 2
+      "l": 2,
+      "gd": -3,
+      "played": 3
     },
     "Morocco": {
-      "w": 1,
-      "d": 1,
-      "l": 0,
-      "gd": 1,
-      "played": 2
-    },
-    "Brazil": {
-      "w": 1,
+      "w": 2,
       "d": 1,
       "l": 0,
       "gd": 3,
-      "played": 2
+      "played": 3
+    },
+    "Brazil": {
+      "w": 2,
+      "d": 1,
+      "l": 0,
+      "gd": 6,
+      "played": 3
     },
     "Haiti": {
       "w": 0,
       "d": 0,
-      "l": 2,
-      "gd": -4,
-      "played": 2
+      "l": 3,
+      "gd": -6,
+      "played": 3
     },
     "United States": {
       "w": 2,
