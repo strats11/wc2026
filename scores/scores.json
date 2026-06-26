@@ -1,5 +1,5 @@
 {
-  "updated": "25 Jun 2026, 18:10",
+  "updated": "26 Jun 2026, 09:20",
   "scores": {
     "Mexico": {
       "w": 3,
@@ -88,30 +88,30 @@
     "United States": {
       "w": 2,
       "d": 0,
-      "l": 0,
-      "gd": 5,
-      "played": 2
+      "l": 1,
+      "gd": 4,
+      "played": 3
     },
     "Australia": {
       "w": 1,
-      "d": 0,
+      "d": 1,
       "l": 1,
       "gd": 0,
-      "played": 2
+      "played": 3
     },
     "Turkiye": {
       "w": 0,
       "d": 0,
       "l": 2,
-      "gd": -3,
-      "played": 2
+      "gd": -2,
+      "played": 3
     },
     "Paraguay": {
       "w": 1,
-      "d": 0,
-      "l": 1,
+      "d": 1,
+      "l": 2,
       "gd": -2,
-      "played": 2
+      "played": 3
     },
     "Germany": {
       "w": 2,
@@ -143,31 +143,31 @@
     },
     "Sweden": {
       "w": 1,
-      "d": 0,
+      "d": 1,
       "l": 1,
       "gd": 0,
-      "played": 2
+      "played": 3
     },
     "Japan": {
       "w": 1,
-      "d": 1,
+      "d": 2,
       "l": 0,
       "gd": 4,
-      "played": 2
+      "played": 3
     },
     "Netherlands": {
-      "w": 1,
+      "w": 2,
       "d": 1,
       "l": 0,
-      "gd": 4,
-      "played": 2
+      "gd": 6,
+      "played": 3
     },
     "Tunisia": {
       "w": 0,
       "d": 0,
-      "l": 2,
-      "gd": -8,
-      "played": 2
+      "l": 3,
+      "gd": -10,
+      "played": 3
     },
     "Belgium": {
       "w": 0,
