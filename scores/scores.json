@@ -116,30 +116,30 @@
     "Germany": {
       "w": 2,
       "d": 0,
-      "l": 0,
-      "gd": 7,
-      "played": 2
+      "l": 1,
+      "gd": 6,
+      "played": 3
     },
     "Ivory Coast": {
-      "w": 1,
+      "w": 2,
       "d": 0,
       "l": 1,
-      "gd": 0,
-      "played": 2
+      "gd": 2,
+      "played": 3
     },
     "Ecuador": {
-      "w": 0,
+      "w": 1,
       "d": 1,
       "l": 1,
-      "gd": -1,
-      "played": 2
+      "gd": 0,
+      "played": 3
     },
     "Curacao": {
       "w": 0,
       "d": 1,
-      "l": 1,
-      "gd": -6,
-      "played": 2
+      "l": 2,
+      "gd": -8,
+      "played": 3
     },
     "Sweden": {
       "w": 1,
