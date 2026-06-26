@@ -76,8 +76,8 @@
             "live": false
           },
           {
-            "home": "Morocco",  "homeScore": null,
-            "away": "TBD",  "awayScore": null,
+            "home": "Netherlands",  "homeScore": null,
+            "away": "Morocco",  "awayScore": null,
             "date": "Tue 30 Jun",   "time": "02:00",
             "live": false
           },
@@ -101,7 +101,7 @@
           },
           {
             "home": "United States",  "homeScore": null,
-            "away": "TBD",      "awayScore": null,
+            "away": "Bosnia-Herz",      "awayScore": null,
             "date": "Thu 2 Jul",   "time": "01:00",
             "live": false
           },
@@ -119,12 +119,12 @@
           },
           {
             "home": "Brazil",       "homeScore": null,
-            "away": "TBD",      "awayScore": null,
+            "away": "Japan",      "awayScore": null,
             "date": "Mon 29 Jun",    "time": "18:00",
             "live": false
           },
           {
-            "home": "TBD",       "homeScore": null,
+            "home": "Ivory Coast",       "homeScore": null,
             "away": "TBD",        "awayScore": null,
             "date": "Tue 30 Jul",    "time": "18:00",
             "live": false
@@ -154,7 +154,7 @@
             "live": false
           },
           {
-            "home": "TBD",        "homeScore": null,
+            "home": "Argentina",        "homeScore": null,
             "away": "TBD",    "awayScore": null,
             "date": "Fri 3 Jul",    "time": "19:00",
             "live": false
