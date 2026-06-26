@@ -33,7 +33,7 @@
     "Cape Verde":    { "played": 3, "w": 1, "d": 0, "l": 2, "gd": -2, "points": 3 },
     "Saudi Arabia":  { "played": 3, "w": 0, "d": 1, "l": 2, "gd": -3, "points": 1 },
     "Uruguay":       { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 1,  "points": 4 },
-    "France":        { "played": 3, "w": 3, "d": 0, "l": 0, "gd": 7,  "points": 9 },
+    "France":        { "played": 3, "w": 3, "d": 0, "l": 0, "gd": 5,  "points": 6 },
     "Senegal":       { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 0,  "points": 4 },
     "Iraq":          { "played": 3, "w": 0, "d": 1, "l": 2, "gd": -4, "points": 1 },
     "Norway":        { "played": 3, "w": 2, "d": 0, "l": 1, "gd": 2,  "points": 6 },
