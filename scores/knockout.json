@@ -4,7 +4,7 @@
     "Mexico":        { "played": 3, "w": 3, "d": 0, "l": 1, "gd": 6,  "points": 9 },
     "South Africa":   { "played": 3, "w": 1, "d": 1, "l": 1, "gd": -1,  "points": 4 },
     "Czech Republic":{ "played": 3, "w": 0, "d": 1, "l": 2, "gd": -4, "points": 1 },
-    "South Africa":  { "played": 3, "w": 0, "d": 1, "l": 2, "gd": -3, "points": 1 },
+    "South Africa":  { "played": 3, "w": 0, "d": 1, "l": 2, "gd": -3, "points": 4 },
     "Switzerland":   { "played": 3, "w": 2, "d": 1, "l": 0, "gd": 4,  "points": 7 },
     "Canada":        { "played": 3, "w": 1, "d": 1, "l": 1, "gd": 5,  "points": 4 },
     "Qatar":         { "played": 3, "w": 0, "d": 1, "l": 2, "gd": -8, "points": 1 },
