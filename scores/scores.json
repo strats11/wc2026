@@ -11,9 +11,9 @@
     "South Korea": {
       "w": 1,
       "d": 0,
-      "l": 1,
-      "gd": 0,
-      "played": 2
+      "l": 2,
+      "gd": -1,
+      "played": 3
     },
     "Czech Republic": {
       "w": 0,
@@ -170,11 +170,11 @@
       "played": 3
     },
     "Belgium": {
-      "w": 0,
+      "w": 1,
       "d": 2,
       "l": 0,
-      "gd": 0,
-      "played": 2
+      "gd": 4,
+      "played": 3
     },
     "Egypt": {
       "w": 1,
