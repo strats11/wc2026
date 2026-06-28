@@ -55,14 +55,14 @@
     "stage": "R32",
 
     "activeTeams": [
-      "Mexico", "Switzerland", "Scotland", "United States",
-      "Germany", "Netherlands", "Belgium", "Spain",
-      "France", "Argentina", "Portugal", "England",
-      "Morocco", "Sweden", "Japan", "Norway",
-      "Brazil", "Canada", "Australia", "Ivory Coast",
-      "Uruguay", "Colombia", "Croatia", "Austria",
-      "South Korea", "South Africa", "Senegal", "Iran",
-      "Egypt", "Cape Verde", "Ecuador", "Algeria"
+      "South Africa", "Canada", "Netherlands", "Morocco", "Paraguay",
+      "Germany", "France", "Sweden", "Belgium", "Senegal",
+      "United States", "Bosnia-Herz", "Spain", "Austria",
+      "Portugal", "Croatia", "Brazil", "Japan",
+      "Ivory Coast", "Norway", "Mexico", "Ecuador",
+      "England", "DR Congo", "Switzerland", "Algeria",
+      "Colombia", "Ghana", "Australia", "Egypt",
+      "Aregntina", "Cape Verde"
     ],
 
     "rounds": [
@@ -84,7 +84,7 @@
           },
           {
             "home": "Germany",     "homeScore": null,
-            "away": "TParaguay",       "awayScore": null,
+            "away": "Paraguay",       "awayScore": null,
             "date": "Mon 29 Jun",   "time": "21:30",
             "live": false
           },
@@ -132,7 +132,7 @@
           },
           {
             "home": "Mexico",    "homeScore": null,
-            "away": "Ecudaor",      "awayScore": null,
+            "away": "Ecuador",      "awayScore": null,
             "date": "Wed 1 Jul",    "time": "02:00",
             "live": false
           },
