@@ -55,7 +55,7 @@
     "stage": "R32",
 
     "activeTeams": [
-      "South Africa", "Canada", "Netherlands", "Morocco", "Paraguay",
+      "Canada", "Netherlands", "Morocco", "Paraguay",
       "Germany", "France", "Sweden", "Belgium", "Senegal",
       "United States", "Bosnia-Herz", "Spain", "Austria",
       "Portugal", "Croatia", "Brazil", "Japan",
@@ -71,8 +71,8 @@
         "label": "Round of 32",
         "matches": [
           {
-            "home": "South Africa",       "homeScore": null,
-            "away": "Canada",      "awayScore": null,
+            "home": "South Africa",       "homeScore": 0,
+            "away": "Canada",      "awayScore": 1,
             "date": "Sun 28 Jun",   "time": "20:00",
             "live": false
           },
@@ -173,7 +173,7 @@
         "label": "Round of 16",
         "matches": [
           {
-            "home": "TBD",       "homeScore": null,
+            "home": "Canada",       "homeScore": null,
             "away": "TBD",  "awayScore": null,
             "date": "Sat 4 Jul",    "time": "18:00",
             "live": false
