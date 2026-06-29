@@ -1,5 +1,5 @@
 {
-  "updated": "29 Jun 2026, 20:20 · Knockout stage",
+  "updated": "29 Jun 2026, 22:20 · Knockout stage",
   "scores": {
     "Mexico":        { "played": 3, "w": 3, "d": 0, "l": 1, "gd": 6,  "points": 9 },
     "South Africa":   { "played": 3, "w": 1, "d": 1, "l": 1, "gd": -1,  "points": 4 },
@@ -83,8 +83,8 @@
             "live": false
           },
           {
-            "home": "Germany",     "homeScore": null,
-            "away": "Paraguay",       "awayScore": null,
+            "home": "Germany",     "homeScore": 0,
+            "away": "Paraguay",       "awayScore": 1,
             "date": "Mon 29 Jun",   "time": "21:30",
             "live": false
           },
