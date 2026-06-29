@@ -119,8 +119,8 @@
             "live": false
           },
           {
-            "home": "Brazil",       "homeScore": null,
-            "away": "Japan",      "awayScore": null,
+            "home": "Brazil",       "homeScore": 0,
+            "away": "Japan",      "awayScore": 1,
             "date": "Mon 29 Jun",    "time": "18:00",
             "live": false
           },
