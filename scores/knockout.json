@@ -89,8 +89,8 @@
             "live": false
           },
           {
-            "home": "France","homeScore": null,
-            "away": "Sweden", "awayScore": null,
+            "home": "France","homeScore": 2,
+            "away": "Sweden", "awayScore": 0,
             "date": "Tue 30 Jun",   "time": "22:00",
             "live": false
           },
