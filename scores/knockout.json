@@ -56,7 +56,7 @@
 
     "activeTeams": [
       "Canada", "Morocco", "Paraguay",
-       "France", "Sweden", "Belgium", "Senegal",
+       "France", "Belgium", "Senegal",
       "United States", "Bosnia-Herz", "Spain", "Austria",
       "Portugal", "Croatia", "Brazil", 
        "Norway", "Mexico", "Ecuador",
@@ -180,7 +180,7 @@
           },
           {
             "home": "Paraguay",     "homeScore": null,
-            "away": "TBD","awayScore": null,
+            "away": "France","awayScore": null,
             "date": "Sat 4 Jul",    "time": "22:00",
             "live": false
           },
