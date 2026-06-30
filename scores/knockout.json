@@ -59,7 +59,7 @@
        "France", "Sweden", "Belgium", "Senegal",
       "United States", "Bosnia-Herz", "Spain", "Austria",
       "Portugal", "Croatia", "Brazil", 
-      "Ivory Coast", "Norway", "Mexico", "Ecuador",
+       "Norway", "Mexico", "Ecuador",
       "England", "Congo DR", "Switzerland", "Algeria",
       "Colombia", "Ghana", "Australia", "Egypt",
       "Argentina", "Cape Verde"
@@ -125,8 +125,8 @@
             "live": false
           },
           {
-            "home": "Ivory Coast",       "homeScore": null,
-            "away": "Norway",        "awayScore": null,
+            "home": "Ivory Coast",       "homeScore": 1,
+            "away": "Norway",        "awayScore": 2,
             "date": "Tue 30 Jul",    "time": "18:00",
             "live": false
           },
@@ -198,7 +198,7 @@
           },
           {
             "home": "Brazil",       "homeScore": null,
-            "away": "TBD",       "awayScore": null,
+            "away": "Norway",       "awayScore": null,
             "date": "Sun 5 Jul",    "time": "21:00",
             "live": false
           },
