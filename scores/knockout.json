@@ -95,8 +95,8 @@
             "live": false
           },
           {
-            "home": "Belgium",      "homeScore": null,
-            "away": "Senegal",      "awayScore": null,
+            "home": "Belgium",      "homeScore": 2,
+            "away": "Senegal",      "awayScore": 2,
             "date": "Wed 1 Jul",   "time": "21:00",
             "live": false
           },
