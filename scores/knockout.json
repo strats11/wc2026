@@ -192,7 +192,7 @@
           },
           {
             "home": "Spain",      "homeScore": null,
-            "away": "TBD",        "awayScore": null,
+            "away": "Portugal",        "awayScore": null,
             "date": "Mon 6 Jul",    "time": "20:00",
             "live": false
           },
@@ -209,7 +209,7 @@
             "live": false
           },
           {
-            "home": "TBD",          "homeScore": null,
+            "home": "Switzerland",          "homeScore": null,
             "away": "TBD",          "awayScore": null,
             "date": "Tue 7 Jul",   "time": "21:00",
             "live": false
