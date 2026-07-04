@@ -1,5 +1,5 @@
 {
-  "updated": "4 Jul 2026, 03:00 · Knockout stage",
+  "updated": "4 Jul 2026, 04:00 · Knockout stage",
   "scores": {
     "Mexico":        { "played": 3, "w": 3, "d": 0, "l": 1, "gd": 6,  "points": 9 },
     "South Africa":   { "played": 3, "w": 1, "d": 1, "l": 1, "gd": -1,  "points": 4 },
@@ -60,7 +60,7 @@
       "Portugal", "Brazil", 
        "Norway", "Mexico",
       "England", "Switzerland", 
-      "Colombia", "Ghana", "Egypt",
+      "Colombia",  "Egypt",
       "Argentina"
     ],
 
@@ -148,8 +148,8 @@
             "live": false
           },
           {
-            "home": "Colombia",       "homeScore": null,
-            "away": "Ghana",      "awayScore": null,
+            "home": "Colombia",       "homeScore": 1,
+            "away": "Ghana",      "awayScore": 0,
             "date": "Sat 4 Jul",    "time": "02:30",
             "live": false
           },
@@ -209,7 +209,7 @@
           },
           {
             "home": "Switzerland",          "homeScore": null,
-            "away": "TBD",          "awayScore": null,
+            "away": "Colombia",          "awayScore": null,
             "date": "Tue 7 Jul",   "time": "21:00",
             "live": false
           },
