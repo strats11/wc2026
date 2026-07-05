@@ -238,7 +238,7 @@
             "live": false
           },
           {
-            "home": "TBD",          "homeScore": Norway,
+            "home": "Norway",          "homeScore": null,
             "away": "TBD",          "awayScore": null,
             "date": "Sat 11 Jul",   "time": "22:00",
             "live": false
