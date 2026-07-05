@@ -54,7 +54,7 @@
     "stage": "R32",
 
     "activeTeams": [
-       "Morocco", "Paraguay",
+       "Morocco", 
        "France", "Belgium", 
       "United States", "Spain", 
       "Portugal", "Brazil", 
@@ -178,8 +178,8 @@
             "live": false
           },
           {
-            "home": "Paraguay",     "homeScore": null,
-            "away": "France","awayScore": null,
+            "home": "Paraguay",     "homeScore": 0,
+            "away": "France","awayScore": 1,
             "date": "Sat 4 Jul",    "time": "22:00",
             "live": false
           },
@@ -227,7 +227,7 @@
         "matches": [
           {
             "home": "Morocco",          "homeScore": null,
-            "away": "TBD",          "awayScore": null,
+            "away": "France",          "awayScore": null,
             "date": "Thu 9 Jul",   "time": "21:00",
             "live": false
           },
