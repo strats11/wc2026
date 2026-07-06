@@ -232,7 +232,7 @@
           },
           {
             "home": "TBD",          "homeScore": null,
-            "away": "TBD",          "Spain": null,
+            "away": "Spain",          "awayScore": null,
             "date": "Fri 10 Jul",   "time": "20:00",
             "live": false
           },
