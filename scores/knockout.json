@@ -1,5 +1,5 @@
 {
-  "updated": "15 Jul 2026, 22:48 · Knockout stage",
+  "updated": "19 Jul 2026, 00:48 · Knockout stage",
   "scores": {
     "Mexico":        { "played": 3, "w": 3, "d": 0, "l": 1, "gd": 6,  "points": 9 },
     "South Africa":  { "played": 3, "w": 1, "d": 1, "l": 1, "gd": -1, "points": 4 },
@@ -122,7 +122,7 @@
       {
         "label": "Third place playoff",
         "matches": [
-          { "home": "England", "homeScore": null, "away": "France", "awayScore": null, "date": "Sat 18 Jul", "time": "22:00", "live": false }
+          { "home": "England", "homeScore": 6, "away": "France", "awayScore": 4, "date": "Sat 18 Jul", "time": "22:00", "live": false }
         ]
       },
 
