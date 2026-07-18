@@ -283,3 +283,39 @@
     "winner": null
   }
 }
+"knockout": {
+  "stage": "F",
+  "winner":     "TBD",
+  "runnerUp":   "TBD",
+  "thirdPlace": "TBD",
+
+  "rounds": [
+    ...your existing rounds...,
+
+    {
+      "label": "Third place playoff",
+      "matches": [
+        {
+          "home": "England",   "homeScore": null,
+          "away": "France",   "awayScore": null,
+          "date": "Sat 18 Jul", "time": "22:00",
+          "live": false
+        }
+      ]
+    },
+
+    {
+      "label": "Final",
+      "matches": [
+        {
+          "home": "Argentina", "homeScore": null,
+          "away": "Spain",    "awayScore": null,
+          "date": "Sun 19 Jul", "time": "20:00",
+          "live": false
+        }
+      ]
+    }
+  ],
+
+  "winner": null
+}
